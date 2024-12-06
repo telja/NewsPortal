@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.WebApi", "NewsPortal.WebApi\NewsPortal.WebApi.csproj", "{11FC06F4-41DF-4A86-BDD2-54676EB0D6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.BLL", "NewsPortal.BLL\NewsPortal.BLL.csproj", "{1361DA8E-0ED1-4939-9216-4D61E66CD8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal.DAL", "NewsPortal.DAL\NewsPortal.DAL.csproj", "{97493B32-4361-40B1-B3A8-54BC53B1128E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FC06F4-41DF-4A86-BDD2-54676EB0D6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FC06F4-41DF-4A86-BDD2-54676EB0D6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FC06F4-41DF-4A86-BDD2-54676EB0D6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FC06F4-41DF-4A86-BDD2-54676EB0D6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1361DA8E-0ED1-4939-9216-4D61E66CD8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1361DA8E-0ED1-4939-9216-4D61E66CD8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1361DA8E-0ED1-4939-9216-4D61E66CD8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1361DA8E-0ED1-4939-9216-4D61E66CD8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97493B32-4361-40B1-B3A8-54BC53B1128E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97493B32-4361-40B1-B3A8-54BC53B1128E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97493B32-4361-40B1-B3A8-54BC53B1128E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97493B32-4361-40B1-B3A8-54BC53B1128E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vscode/
+.idea/
+
+# Secrets
+appsettings.json
+appsettings.*.json
+
+# Logs
+*.log
+logs/
